@@ -1,0 +1,28 @@
+h1 {
+    font-size: 52px;
+    color: #FF6600;
+}
+
+img {
+    width: 20%;
+}
+
+div {
+    padding-top: 3%;
+}
+
+.bg-dark {
+    height: 100vh;
+}
+
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 30px;
+    }
+    div {
+        padding-top: 12%;
+    }
+    img {
+        width: 80%;
+    }
+}
