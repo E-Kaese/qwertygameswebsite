@@ -11,7 +11,8 @@ div {
     padding-top: 3%;
 }
 
-.bg-dark {
+.background {
+    background: url('../assets/what-the-hex-dark.png') repeat;
     height: 100vh;
 }
 
